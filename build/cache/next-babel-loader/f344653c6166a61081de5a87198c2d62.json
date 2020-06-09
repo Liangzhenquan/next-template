@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\n\n/*\n * @Description:\n * @Autor: liang\n * @Date: 2020-06-08 14:02:48\n * @LastEditors: liang\n * @LastEditTime: 2020-06-08 14:03:00\n */\nimport React from \"react\";\nexport default function about() {\n  return __jsx(\"div\", null, \"about\");\n}","map":null,"metadata":{},"sourceType":"module"}

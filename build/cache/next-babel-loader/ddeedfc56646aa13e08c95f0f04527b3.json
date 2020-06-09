@@ -1,0 +1,1 @@
+{"ast":null,"code":"/*\n * @Description:\n * @Autor: liang\n * @Date: 2020-06-08 18:18:04\n * @LastEditors: liang\n * @LastEditTime: 2020-06-08 18:23:25\n */\n// 文件路径\nconst paths = {\n  font: \"../static/fonts/iconfont.css\" //图标位置\n\n};\nexport default paths;","map":null,"metadata":{},"sourceType":"module"}
